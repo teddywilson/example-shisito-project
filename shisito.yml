@@ -1,1 +1,5 @@
-filepattern: test_files/*
+collections:
+  - 
+    filepattern: content/authors/*
+  - 
+    filepattern: content/events/*
