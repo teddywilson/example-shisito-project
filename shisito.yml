@@ -1,5 +1,10 @@
 collections:
-  - 
-    filepattern: content/authors/*
-  - 
-    filepattern: content/events/*
+  -
+    filepattern: authors/*
+    fields:
+      - name: str
+  -
+    filepattern: events/*
+    fields:
+      - name: str
+      - max_capacity: int
