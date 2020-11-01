@@ -7,4 +7,4 @@ jobs:
     name: build-library
     steps:
       - uses: actions/checkout@v1
-      - uses: teddywilson/shisito@v0.0.1
+      - uses: teddywilson/shisito@v0.0.4
