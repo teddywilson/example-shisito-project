@@ -1,3 +1,3 @@
 # Example Shisito project
 
-This is am example project that uses [Shisito](https://github.com/teddywilson/shisito) for markdown file validation.
+This is an example project that demonstrates use of the [shisito-markdown-validation](https://github.com/teddywilson/shisito) Github action.
