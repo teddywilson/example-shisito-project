@@ -15,3 +15,6 @@ collections:
         - type: int
       - hosts:
         - type: list
+      - admission_fee:
+        - type: str
+        - required: false
